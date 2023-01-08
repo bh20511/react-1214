@@ -6,4 +6,4 @@
  
  <img src="https://i.imgur.com/fgJhJmZ.jpg" alt="">
 <img src="https://i.imgur.com/xpaKrsh.jpg" alt="">
-<a href="https://www.cakeresume.com/cdn-cgi/image/fit=scale-down,format=auto,w=828/https://images.cakeresume.com/P5AW4/bh20511/6a20166f-b141-43c6-afe6-bd354992480d.png"></a>
+<img src="https://www.cakeresume.com/cdn-cgi/image/fit=scale-down,format=auto,w=828/https://images.cakeresume.com/P5AW4/bh20511/6a20166f-b141-43c6-afe6-bd354992480d.png" alt="">
