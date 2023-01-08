@@ -1,0 +1,26 @@
+@import '../global.scss';
+
+
+.carouselBox{
+    width:100%;
+    margin:0 auto;
+    margin-bottom:25px;
+    
+    // overflow:hidden;
+}
+.carouselWrap{
+    width:100%;
+    margin:0 auto;
+    height:400px;
+    border-radius:10px;
+    overflow:hidden;
+    img{
+        margin:0 auto;
+        width: 95%;
+        object-fit: cover;
+        // aspect-ratio: 16/7;
+        // width:100%;
+
+
+    }
+}

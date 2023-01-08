@@ -1,0 +1,39 @@
+@import '../global.scss';
+.timeWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &:last-child .border {
+    display: none;
+  }
+  &:last-child .long {
+    display: none;
+  }
+}
+.time {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  p {
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 3px;
+  }
+}
+.border {
+  height: 60px;
+  // height: calc(50px + 50vh);
+  border-right: 1px solid black;
+  transition: ease-in-out .5s;
+}
+.long{
+  height: calc(50px + 50vh);
+  border-right: 1px solid black;
+  transition: ease-in-out .5s;
+}
